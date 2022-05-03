@@ -3,6 +3,8 @@
 This is the code section of my Repoistory, this is where my files are hosted. You can learn more about these files by following the links below.  
 Please go to one or more of these places for more info:
 
+The testing performed was done in a safe environment, with no connection to any network. We are not responsible for any damages caused by attempting the content depicted in these guides.
+
 Personal Wiki https://github.com/Awesomehood/Capstone/wiki **(RECOMENDED)**
 
 Personal Project Board https://github.com/users/Awesomehood/projects/1/views/1  
